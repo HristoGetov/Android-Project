@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/soup_item"
+        android:title="Soups"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/potato_item"
+        android:title="Potato Dishes"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/rice_item"
+        android:title="Rice Dishes"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/bread_item"
+        android:title="Bread Dishes"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/desert"
+        android:title="Deserts"
+        app:showAsAction="never"/>
+</menu>
